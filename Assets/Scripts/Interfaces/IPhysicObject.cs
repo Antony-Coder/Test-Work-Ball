@@ -1,0 +1,4 @@
+interface IPhysicObject
+{
+    void Collision();
+}
